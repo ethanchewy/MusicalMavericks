@@ -405,17 +405,11 @@ footer a:hover {
 
 /* text over image stuff */
 .image { 
-   min-height: 100%;
-   min-width: 1024px;
-	
-  /* Set up proportionate scaling */
-   width: 100%;
-   height: auto;
-	
-  /* Set up positioning */
-   position: fixed;
-   top: 0;
-   left: 0;
+   background: url("https://scontent-a-lga.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10154466_292627537562372_2638098741562036512_n.jpg?oh=3166c5fa126dd97018e3c50894376fe2&oe=5512589F") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 h2 {
