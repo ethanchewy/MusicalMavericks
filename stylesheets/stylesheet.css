@@ -388,12 +388,7 @@ footer a:hover {
 }
 .parallax__layer--base {
   transform: translateZ(0);
-  background-image: url("https://scontent-a-lga.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10154466_292627537562372_2638098741562036512_n.jpg?oh=3166c5fa126dd97018e3c50894376fe2&oe=5512589F");
-  height: 100%;
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
+
 }
 
 .parallax__layer--back {
@@ -406,4 +401,17 @@ footer a:hover {
 
 .parallax__group {
     transform: translate3d(700px, 0, -800px) rotateY(30deg);
+}
+
+/* text over image stuff */
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+h2 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
 }
