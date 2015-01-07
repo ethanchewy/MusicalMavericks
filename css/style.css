@@ -35,7 +35,7 @@ html,body{
 	-webkit-transition: all .2s ease-in-out;
 	border-bottom:1px solid black;
 	text-align:left;
-	width:53px;
+	width:100px;
 }
 .navigation li:hover,.active{
 	font-size:25px;
