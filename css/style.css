@@ -85,7 +85,7 @@ html,body{
 #slide1{
 	background-color:#5c9900;
 	position: relative;
-
+	fontsize:70px;
 
   	width: 100%;
   	margin: 0 auto;
@@ -96,7 +96,7 @@ html,body{
 }
 
 #slide1 p{
-	
+
   	width: 50%;
 	transform: translate(-50%, -50%); 
   	position: absolute;
@@ -104,12 +104,12 @@ html,body{
   	left: 50%;
 
   	resize: both;
-  	overflow: auto;
+  	overflow: auto; 
 	
 	white-space: nowrap ;
 	
   	color: #B8B8B8;
-  	font-size: 65px;
+  	font-size: 100%;
   	font-style: italic;
   	text-align: center;
 }
