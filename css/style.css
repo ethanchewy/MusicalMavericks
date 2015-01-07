@@ -84,7 +84,7 @@ html,body{
 *******************************/
 #slide1{
 	background-color:#5c9900;
-
+	position: absolute;
 	font-size:70px;
 
   	width: 100%;
@@ -96,7 +96,7 @@ html,body{
 }
 
 #slide1 p{
-
+	position: relative;
   	width: 50%;
 	transform: translate(-50%, -50%); 
 
