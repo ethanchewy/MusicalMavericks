@@ -96,7 +96,7 @@ z-index:1;
 	
 }
 
-.slide1 p{
+#slide1 p{
 	position: absolute;
 	top: 50%;
   	left: 50%;
