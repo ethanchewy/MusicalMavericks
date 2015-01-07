@@ -91,10 +91,10 @@ html,body{
 #slide1 p{
 	position: absolute;
 	top: 50%;
-  	left: 40%; 
+  	left: 50%; 
   	transform: translate(-50%, -50%);
   	color: #B8B8B8;
-  	font-size: 75px;
+  	font-size: 65px;
   	font-style: italic;
   	text-align: center;
 }
