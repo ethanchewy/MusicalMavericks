@@ -85,7 +85,7 @@ html,body{
 #slide1{
 	background-color:#5c9900;
 	position: relative;
-	font-size:70px;
+	font-size:60px;
 
   	width: 100%;
   	margin: 0 auto;
@@ -97,7 +97,7 @@ html,body{
 
 #slide1 span{
 	position: absolute;
-  	width: 75%;
+  	width: 90%;
 	transform: translate(-50%, -50%); 
 
   	top: 50%;
