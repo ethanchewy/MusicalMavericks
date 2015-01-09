@@ -96,6 +96,9 @@ html,body{
 }
 
 #slide1 span{
+	padding:0px;
+	border:0px;
+	margin:0px;
 	position: absolute;
   	width: 90%;
 	transform: translate(-50%, -50%); 
