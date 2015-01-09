@@ -85,7 +85,7 @@ html,body{
 #slide1{
 	background-color:#5c9900;
 	position: relative;
-	font-size:60px;
+	font-size:100%;
 
   	width: 100%;
   	margin: 0 auto;
