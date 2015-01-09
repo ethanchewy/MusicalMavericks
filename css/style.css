@@ -97,7 +97,7 @@ html,body{
 
 #slide1 span{
 	position: absolute;
-  	width: 90%;
+  	width: 100%;
 	transform: translate(-50%, -50%); 
 
   	top: 50%;
@@ -109,7 +109,7 @@ html,body{
 	white-space: nowrap ;
 	
   	color: #B8B8B8;
-  	font-size: 75%;
+  	font-size: 100%;
   	font-style: italic;
   	text-align: center;
 }
