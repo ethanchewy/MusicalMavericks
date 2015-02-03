@@ -58,7 +58,7 @@ html, body {
 
 #about {
 	background-color: #FFFFFF;
-	box-shadow: 3px 5px 5px #CCCCCC;
+	/* box-shadow: 3px 5px 5px #CCCCCC; */
 }
 
 #services {
@@ -133,3 +133,13 @@ footer .glyphicon:hover {
 	margin-left: auto;
   	margin-right: auto;
 }
+
+/*.container {
+	box-shadow: 0px 1px 30px 0px rgba(50, 50, 50, 0.75);
+	background-color: #BBDEFB;
+}
+
+.col-sm-6 {
+	padding-left:0px;
+}
+*/
