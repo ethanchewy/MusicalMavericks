@@ -35,18 +35,24 @@ html, body {
 
 /* additional sections */
 #home {
+	/*
   background: url(../images/home.jpg) no-repeat center center fixed; 
+  */
+  background-color:#2196F3;
   display: table;
   height: 100%;
   position: relative;
   width: 100%;
+  /*
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  */
 }
 
 #about {
+	background-color: #2196F3;
 }
 
 #services {
@@ -66,7 +72,7 @@ html, body {
 }
 
 #information {
-  background: url(../images/estate.jpg) no-repeat center center fixed; 
+  background: url(../images/home.jpg) no-repeat center center fixed; 
   display: table;
   height: 800px;
   position: relative;
@@ -92,5 +98,23 @@ footer .glyphicon {
   font-size: 60px;
 }
 footer .glyphicon:hover {
-  color: #306d9f;
+  color: #B6B6B6;
+}
+
+/*nav bar */
+.navbar {
+	background-color: #1976D2;
+
+}
+.navbar-default {
+	box-shadow: 3px 5px 5px #0E4276;
+	border: 0px;
+
+}
+.navbar-default .navbar-brand {
+	color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #FFFFFF;
 }
