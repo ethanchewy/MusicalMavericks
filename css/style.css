@@ -10,6 +10,7 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
 html, body {
   height: 100%;
   width: 100%;
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
 }
 
 /* padded section */
@@ -43,6 +44,10 @@ html, body {
   height: 100%;
   position: relative;
   width: 100%;
+  color: #FFFFFF;
+
+
+  box-shadow: 3px 5px 5px 	#1A78C2 ;
   /*
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -52,7 +57,7 @@ html, body {
 }
 
 #about {
-	background-color: #2196F3;
+	background-color: #FFFFFF;
 }
 
 #services {
@@ -107,7 +112,7 @@ footer .glyphicon:hover {
 
 }
 .navbar-default {
-	box-shadow: 3px 5px 5px #0E4276;
+	box-shadow: 3px 5px 5px #2B6EB1;
 	border: 0px;
 
 }
