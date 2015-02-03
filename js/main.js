@@ -13,7 +13,7 @@
 $(document).ready(function (){
 
   // create a LatLng object containing the coordinate for the center of the map
-  var latlng = new google.maps.LatLng(-33.86455, 151.209);
+  var latlng = new google.maps.LatLng(42.296797, -71.2923877);
 
   // prepare the map properties
   var options = {
