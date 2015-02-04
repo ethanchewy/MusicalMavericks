@@ -109,6 +109,6 @@ $("#myWords").wordsrotator({
     animationIn: "flipInY",         //css class for entrace animation
     animationOut: "flipOutY",           //css class for exit animation
     speed: 2000,                //delay in milliseconds between two words
-    words: ['apple', 'apricot', 'avocado']  //Array of words, it may contain HTML values
+    words: ['Music', 'Fun', 'Awesome']  //Array of words, it may contain HTML values
 });
 
