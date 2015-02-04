@@ -101,14 +101,5 @@
 	 
 }( jQuery ));
 
-$("#myWords").wordsrotator({
-    autoLoop: true,             //auto rotate words
-    randomize: false,               //show random entries from the words array
-    stopOnHover: false,             //stop animation on hover
-    changeOnClick: false,           //force animation run on click
-    animationIn: "flipInY",         //css class for entrace animation
-    animationOut: "flipOutY",           //css class for exit animation
-    speed: 2000,                //delay in milliseconds between two words
-    words: ['Music', 'Fun', 'Awesome']  //Array of words, it may contain HTML values
-});
+
 
