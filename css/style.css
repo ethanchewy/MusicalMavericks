@@ -11,6 +11,7 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+  line-height: 0;
 }
 
 /* padded section */
