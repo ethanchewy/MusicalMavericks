@@ -99,10 +99,11 @@ html, body {
 #google_map {
   height: 500px;
 }
-
+/*
 footer {
   padding: 20px 0;
 }
+*/
 footer .glyphicon {
   color: #333333;
   font-size: 60px;
