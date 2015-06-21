@@ -69,13 +69,13 @@ section {
     -webkit-background-size: cover;
     background-size: cover;
     -moz-background-size: cover;
-    min-height: 600px;
+    min-height: 950px;
 }
     /*STYLE FOR OVERLAY CLASS - WHICH IS ABOVE IMAGE WITH OPACITY/TRANSPARENCY 0.75*/
     #home .overlay {
         padding-top: 90px;
         background-color: rgba(35, 133, 161,0.75); /*.75 opacity of the color so that background image is visible*/
-        min-height: 600px;
+        min-height: 950px;
         color: #fff;
     }
 
@@ -180,11 +180,6 @@ footer {
         text-decoration: none;
     }
 
-
-.vertical-center {
-  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
-  min-height: 100vh; /* These two lines are counted as one :-)       */
-
-  display: flex;
-  align-items: center;
+#homecenter {
+    padding-top:205px;
 }
