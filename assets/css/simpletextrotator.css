@@ -1,3 +1,6 @@
+#js-rotating {
+  font-color:#FFEB3B;
+}
 .rotating {
   display: inline-block;
   -webkit-transform-style: preserve-3d;
